@@ -1,2 +1,2 @@
-# kalkulator
+# kalkulator do obliczania cyfr
 KALKULATOR
